@@ -1,0 +1,8 @@
+{application,wbuildr,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib,sasl]},
+              {mod,{wbuildr,[]}},
+              {env,[]},
+              {modules,[reloader,wbuildr]}]}.

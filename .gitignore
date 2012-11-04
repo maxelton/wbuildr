@@ -1,0 +1,4 @@
+apps/wbuildr/ebin/*.beam
+apps/wbuildr/.eunit/
+test/output/
+test/build/
